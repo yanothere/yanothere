@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧑‍🎓 aboutme >> Student | Russian<br>🎯 whoami >> Backend-Fullstack Developer<br>🛠️ mystack >> Python - FastAPI | Aiogram<br>🌟 bestproject >> None<br>📫 contact >> t.me/qssdz
+🧑‍🎓 aboutme >> Student | Russian<br>🎯 whoami >> Backend-Fullstack Developer<br>🛠️ mystack >> Python - FastAPI | Aiogram<br>🌟 bestproject >> None<br>
 
 
 # 💻 Tech Stack:
